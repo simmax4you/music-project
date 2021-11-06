@@ -1,0 +1,47 @@
+body{
+    text-align: center;
+    background: linear-gradient(#fc03034b 0%, #4a03fc 100%);
+}
+#twinkle-twinkle{
+    border-radius: 90px;
+}
+#the-final-fold{
+    border-radius: 90px;
+}
+#SMB_Theme{
+    border-radius: 90px;
+}
+#rick_roll{
+    border-radius: 90px;
+}
+#quote1{
+    font-family: cursive;
+    font-size: 50px;
+}
+#quote2{
+    font-family: cursive;
+    font-size: 50px;
+}
+#quote3{
+    font-family: cursive;
+    font-size: 50px;
+}
+#quote4{
+    font-family: cursive;
+    font-size: 50px;
+}
+#link1{
+    color: #4a03fc;
+}
+#link2{
+    color: #fc03bec7;
+}
+#link3{
+    color: #fc0303;
+}
+#link4{
+    color: #fbff0000;
+}
+#addvice{
+    font-size: 30px;
+}
